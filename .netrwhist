@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/lore/.config/nvim'
+let g:netrw_dirhist_5='/home/lore/.config'
+let g:netrw_dirhist_4='/home/lore'
+let g:netrw_dirhist_3='/home/lore/Code/java/elaborato_esame_funzionante/src/main/webapp'
+let g:netrw_dirhist_2='/home/lore/Code/cpp/nn-cpp'
+let g:netrw_dirhist_1='/home/lore/Code/cpp/nn-cpp/src'
+let g:netrw_dirhist_0='/home/lore/Code/cpp/nn-cpp'
+let g:netrw_dirhist_9='/home/lore/Code/cpp/nn-cpp/build'
+let g:netrw_dirhist_8='/home/lore/Code/cpp/nn-cpp/src'
+let g:netrw_dirhist_7='/home/lore/Code/cpp/nn-cpp'
